@@ -1,6 +1,6 @@
 {
   "name": "legally",
-  "version": "3.3.7",
+  "version": "3.3.8",
   "description": "Check the licenses for the packages that you are using",
   "main": "index.js",
   "engines": {
@@ -16,7 +16,7 @@
   "author": "Francisco Presencia",
   "license": "MIT",
   "dependencies": {
-    "fs-array": "^2.2.1",
+    "files": "^1.0.1",
     "minimist": "^1.2.0",
     "validate-npm-package-name": "^3.0.0"
   },
